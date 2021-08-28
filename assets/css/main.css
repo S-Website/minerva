@@ -3605,7 +3605,7 @@ input, select, textarea {
 						background-repeat: repeat-y;
 						background-size: 40rem auto; */
 						background-image: url("../../images/gallery/owl.png");
-						background-size: contain;
+						background-size: 26rem auto;
 						background-repeat: no-repeat;						
 					}
 
